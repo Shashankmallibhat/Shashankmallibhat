@@ -26,7 +26,7 @@ implementing new software platforms. Possessing great analytical skills, ability
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankmallibhat&theme=radical)](https://github.com/Shashankmallibhat)
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashankmallibhat&theme=radical)](https://github.com/Shashankmallibhat)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashankmallibhat&theme=radical&count_private=true)](https://github.com/Shashankmallibhat)
 
 
 
